@@ -1,0 +1,421 @@
+ClassA	ClassB	PathID	PathName	Size
+Metabolism	Overview	1200	Carbon metabolism	342
+Metabolism	Overview	1210	2-Oxocarboxylic acid metabolism	76
+Metabolism	Overview	1212	Fatty acid metabolism	70
+Metabolism	Overview	1230	Biosynthesis of amino acids	228
+Metabolism	Carbohydrate metabolism	1220	Degradation of aromatic compounds	203
+Metabolism	Carbohydrate metabolism	10	Glycolysis / Gluconeogenesis	100
+Metabolism	Carbohydrate metabolism	20	Citrate cycle (TCA cycle)	58
+Metabolism	Carbohydrate metabolism	30	Pentose phosphate pathway	78
+Metabolism	Carbohydrate metabolism	40	Pentose and glucuronate interconversions	66
+Metabolism	Carbohydrate metabolism	51	Fructose and mannose metabolism	106
+Metabolism	Carbohydrate metabolism	52	Galactose metabolism	74
+Metabolism	Carbohydrate metabolism	53	Ascorbate and aldarate metabolism	45
+Metabolism	Carbohydrate metabolism	500	Starch and sucrose metabolism	108
+Metabolism	Carbohydrate metabolism	520	Amino sugar and nucleotide sugar metabolism	150
+Metabolism	Carbohydrate metabolism	620	Pyruvate metabolism	96
+Metabolism	Carbohydrate metabolism	630	Glyoxylate and dicarboxylate metabolism	95
+Metabolism	Carbohydrate metabolism	640	Propanoate metabolism	101
+Metabolism	Carbohydrate metabolism	650	Butanoate metabolism	92
+Metabolism	Carbohydrate metabolism	660	C5-Branched dibasic acid metabolism	25
+Metabolism	Energy metabolism	562	Inositol phosphate metabolism	66
+Metabolism	Energy metabolism	190	Oxidative phosphorylation	215
+Metabolism	Energy metabolism	195	Photosynthesis	63
+Metabolism	Energy metabolism	196	Photosynthesis - antenna proteins	42
+Metabolism	Energy metabolism	710	Carbon fixation in photosynthetic organisms	36
+Metabolism	Energy metabolism	720	Carbon fixation pathways in prokaryotes	106
+Metabolism	Energy metabolism	680	Methane metabolism	167
+Metabolism	Energy metabolism	910	Nitrogen metabolism	60
+Metabolism	Lipid metabolism	920	Sulfur metabolism	99
+Metabolism	Lipid metabolism	61	Fatty acid biosynthesis	34
+Metabolism	Lipid metabolism	62	Fatty acid elongation	23
+Metabolism	Lipid metabolism	71	Fatty acid degradation	53
+Metabolism	Lipid metabolism	72	Synthesis and degradation of ketone bodies	8
+Metabolism	Lipid metabolism	73	Cutin, suberine and wax biosynthesis	13
+Metabolism	Lipid metabolism	100	Steroid biosynthesis	31
+Metabolism	Lipid metabolism	120	Primary bile acid biosynthesis	18
+Metabolism	Lipid metabolism	121	Secondary bile acid biosynthesis	8
+Metabolism	Lipid metabolism	140	Steroid hormone biosynthesis	47
+Metabolism	Lipid metabolism	561	Glycerolipid metabolism	78
+Metabolism	Lipid metabolism	564	Glycerophospholipid metabolism	109
+Metabolism	Lipid metabolism	565	Ether lipid metabolism	29
+Metabolism	Lipid metabolism	600	Sphingolipid metabolism	41
+Metabolism	Lipid metabolism	590	Arachidonic acid metabolism	45
+Metabolism	Lipid metabolism	591	Linoleic acid metabolism	24
+Metabolism	Lipid metabolism	592	alpha-Linolenic acid metabolism	23
+Metabolism	Lipid metabolism	1040	Biosynthesis of unsaturated fatty acids	27
+Metabolism	Nucleotide metabolism	230	Purine metabolism	274
+Metabolism	Amino acid metabolism	240	Pyrimidine metabolism	175
+Metabolism	Amino acid metabolism	250	Alanine, aspartate and glutamate metabolism	67
+Metabolism	Amino acid metabolism	260	Glycine, serine and threonine metabolism	94
+Metabolism	Amino acid metabolism	270	Cysteine and methionine metabolism	97
+Metabolism	Amino acid metabolism	280	Valine, leucine and isoleucine degradation	69
+Metabolism	Amino acid metabolism	290	Valine, leucine and isoleucine biosynthesis	19
+Metabolism	Amino acid metabolism	300	Lysine biosynthesis	47
+Metabolism	Amino acid metabolism	310	Lysine degradation	76
+Metabolism	Amino acid metabolism	220	Arginine biosynthesis	56
+Metabolism	Amino acid metabolism	330	Arginine and proline metabolism	99
+Metabolism	Amino acid metabolism	340	Histidine metabolism	46
+Metabolism	Amino acid metabolism	350	Tyrosine metabolism	69
+Metabolism	Amino acid metabolism	360	Phenylalanine metabolism	75
+Metabolism	Amino acid metabolism	380	Tryptophan metabolism	67
+Metabolism	Amino acid metabolism	400	Phenylalanine, tyrosine and tryptophan biosynthesis	72
+Metabolism	Metabolism of other amino acids	410	beta-Alanine metabolism	43
+Metabolism	Metabolism of other amino acids	430	Taurine and hypotaurine metabolism	24
+Metabolism	Metabolism of other amino acids	440	Phosphonate and phosphinate metabolism	40
+Metabolism	Metabolism of other amino acids	450	Selenocompound metabolism	28
+Metabolism	Metabolism of other amino acids	460	Cyanoamino acid metabolism	33
+Metabolism	Metabolism of other amino acids	471	D-Glutamine and D-glutamate metabolism	6
+Metabolism	Metabolism of other amino acids	472	D-Arginine and D-ornithine metabolism	6
+Metabolism	Metabolism of other amino acids	473	D-Alanine metabolism	5
+Metabolism	Glycan biosynthesis and metabolism	480	Glutathione metabolism	41
+Metabolism	Glycan biosynthesis and metabolism	510	N-Glycan biosynthesis	43
+Metabolism	Glycan biosynthesis and metabolism	513	Various types of N-glycan biosynthesis	51
+Metabolism	Glycan biosynthesis and metabolism	512	Mucin type O-glycan biosynthesis	11
+Metabolism	Glycan biosynthesis and metabolism	515	Mannose type O-glycan biosyntheis	21
+Metabolism	Glycan biosynthesis and metabolism	514	Other types of O-glycan biosynthesis	26
+Metabolism	Glycan biosynthesis and metabolism	532	Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate	18
+Metabolism	Glycan biosynthesis and metabolism	534	Glycosaminoglycan biosynthesis - heparan sulfate / heparin	22
+Metabolism	Glycan biosynthesis and metabolism	533	Glycosaminoglycan biosynthesis - keratan sulfate	14
+Metabolism	Glycan biosynthesis and metabolism	531	Glycosaminoglycan degradation	15
+Metabolism	Glycan biosynthesis and metabolism	563	Glycosylphosphatidylinositol(GPI)-anchor biosynthesis	26
+Metabolism	Glycan biosynthesis and metabolism	601	Glycosphingolipid biosynthesis - lacto and neolacto series	27
+Metabolism	Glycan biosynthesis and metabolism	603	Glycosphingolipid biosynthesis - globo and isoglobo series	15
+Metabolism	Glycan biosynthesis and metabolism	604	Glycosphingolipid biosynthesis - ganglio series	14
+Metabolism	Glycan biosynthesis and metabolism	540	Lipopolysaccharide biosynthesis	40
+Metabolism	Glycan biosynthesis and metabolism	550	Peptidoglycan biosynthesis	40
+Metabolism	Metabolism of cofactors and vitamins	511	Other glycan degradation	19
+Metabolism	Metabolism of cofactors and vitamins	730	Thiamine metabolism	33
+Metabolism	Metabolism of cofactors and vitamins	740	Riboflavin metabolism	42
+Metabolism	Metabolism of cofactors and vitamins	750	Vitamin B6 metabolism	23
+Metabolism	Metabolism of cofactors and vitamins	760	Nicotinate and nicotinamide metabolism	89
+Metabolism	Metabolism of cofactors and vitamins	770	Pantothenate and CoA biosynthesis	37
+Metabolism	Metabolism of cofactors and vitamins	780	Biotin metabolism	23
+Metabolism	Metabolism of cofactors and vitamins	785	Lipoic acid metabolism	4
+Metabolism	Metabolism of cofactors and vitamins	790	Folate biosynthesis	54
+Metabolism	Metabolism of cofactors and vitamins	670	One carbon pool by folate	33
+Metabolism	Metabolism of cofactors and vitamins	830	Retinol metabolism	48
+Metabolism	Metabolism of cofactors and vitamins	860	Porphyrin and chlorophyll metabolism	111
+Metabolism	Metabolism of terpenoids and polyketides	130	Ubiquinone and other terpenoid-quinone biosynthesis	56
+Metabolism	Metabolism of terpenoids and polyketides	900	Terpenoid backbone biosynthesis	57
+Metabolism	Metabolism of terpenoids and polyketides	902	Monoterpenoid biosynthesis	26
+Metabolism	Metabolism of terpenoids and polyketides	909	Sesquiterpenoid and triterpenoid biosynthesis	69
+Metabolism	Metabolism of terpenoids and polyketides	904	Diterpenoid biosynthesis	52
+Metabolism	Metabolism of terpenoids and polyketides	906	Carotenoid biosynthesis	46
+Metabolism	Metabolism of terpenoids and polyketides	905	Brassinosteroid biosynthesis	11
+Metabolism	Metabolism of terpenoids and polyketides	981	Insect hormone biosynthesis	18
+Metabolism	Metabolism of terpenoids and polyketides	908	Zeatin biosynthesis	8
+Metabolism	Metabolism of terpenoids and polyketides	903	Limonene and pinene degradation	13
+Metabolism	Metabolism of terpenoids and polyketides	281	Geraniol degradation	16
+Metabolism	Metabolism of terpenoids and polyketides	1052	Type I polyketide structures	115
+Metabolism	Metabolism of terpenoids and polyketides	522	Biosynthesis of 12-, 14- and 16-membered macrolides	36
+Metabolism	Metabolism of terpenoids and polyketides	1051	Biosynthesis of ansamycins	32
+Metabolism	Metabolism of terpenoids and polyketides	1059	Biosynthesis of enediyne antibiotics	74
+Metabolism	Metabolism of terpenoids and polyketides	1056	Biosynthesis of type II polyketide backbone	9
+Metabolism	Metabolism of terpenoids and polyketides	1057	Biosynthesis of type II polyketide products	72
+Metabolism	Metabolism of terpenoids and polyketides	253	Tetracycline biosynthesis	17
+Metabolism	Metabolism of terpenoids and polyketides	523	Polyketide sugar unit biosynthesis	57
+Metabolism	Metabolism of terpenoids and polyketides	1054	Nonribosomal peptide structures	54
+Metabolism	Metabolism of terpenoids and polyketides	1053	Biosynthesis of siderophore group nonribosomal peptides	30
+Metabolism	Biosynthesis of other secondary metabolites	1055	Biosynthesis of vancomycin group antibiotics	29
+Metabolism	Biosynthesis of other secondary metabolites	940	Phenylpropanoid biosynthesis	34
+Metabolism	Biosynthesis of other secondary metabolites	945	Stilbenoid, diarylheptanoid and gingerol biosynthesis	13
+Metabolism	Biosynthesis of other secondary metabolites	941	Flavonoid biosynthesis	19
+Metabolism	Biosynthesis of other secondary metabolites	944	Flavone and flavonol biosynthesis	12
+Metabolism	Biosynthesis of other secondary metabolites	942	Anthocyanin biosynthesis	15
+Metabolism	Biosynthesis of other secondary metabolites	943	Isoflavonoid biosynthesis	13
+Metabolism	Biosynthesis of other secondary metabolites	901	Indole alkaloid biosynthesis	11
+Metabolism	Biosynthesis of other secondary metabolites	403	Indole diterpene alkaloid biosynthesis	13
+Metabolism	Biosynthesis of other secondary metabolites	950	Isoquinoline alkaloid biosynthesis	43
+Metabolism	Biosynthesis of other secondary metabolites	960	Tropane, piperidine and pyridine alkaloid biosynthesis	26
+Metabolism	Biosynthesis of other secondary metabolites	1058	Acridone alkaloid biosynthesis	2
+Metabolism	Biosynthesis of other secondary metabolites	232	Caffeine metabolism	9
+Metabolism	Biosynthesis of other secondary metabolites	965	Betalain biosynthesis	7
+Metabolism	Biosynthesis of other secondary metabolites	966	Glucosinolate biosynthesis	19
+Metabolism	Biosynthesis of other secondary metabolites	402	Benzoxazinoid biosynthesis	8
+Metabolism	Biosynthesis of other secondary metabolites	311	Penicillin and cephalosporin biosynthesis	15
+Metabolism	Biosynthesis of other secondary metabolites	332	Carbapenem biosynthesis	19
+Metabolism	Biosynthesis of other secondary metabolites	261	Monobactam biosynthesis	28
+Metabolism	Biosynthesis of other secondary metabolites	331	Clavulanic acid biosynthesis	5
+Metabolism	Biosynthesis of other secondary metabolites	521	Streptomycin biosynthesis	18
+Metabolism	Biosynthesis of other secondary metabolites	524	Neomycin, kanamycin and gentamicin biosynthesis	58
+Metabolism	Biosynthesis of other secondary metabolites	525	Acarbose and validamycin biosynthesis	26
+Metabolism	Biosynthesis of other secondary metabolites	231	Puromycin biosynthesis	9
+Metabolism	Biosynthesis of other secondary metabolites	401	Novobiocin biosynthesis	30
+Metabolism	Biosynthesis of other secondary metabolites	404	Staurosporine biosynthesis	34
+Metabolism	Xenobiotics biodegradation and metabolism	254	Aflatoxin biosynthesis	13
+Metabolism	Xenobiotics biodegradation and metabolism	362	Benzoate degradation	95
+Metabolism	Xenobiotics biodegradation and metabolism	627	Aminobenzoate degradation	73
+Metabolism	Xenobiotics biodegradation and metabolism	364	Fluorobenzoate degradation	18
+Metabolism	Xenobiotics biodegradation and metabolism	625	Chloroalkane and chloroalkene degradation	30
+Metabolism	Xenobiotics biodegradation and metabolism	361	Chlorocyclohexane and chlorobenzene degradation	38
+Metabolism	Xenobiotics biodegradation and metabolism	623	Toluene degradation	46
+Metabolism	Xenobiotics biodegradation and metabolism	622	Xylene degradation	34
+Metabolism	Xenobiotics biodegradation and metabolism	633	Nitrotoluene degradation	21
+Metabolism	Xenobiotics biodegradation and metabolism	642	Ethylbenzene degradation	16
+Metabolism	Xenobiotics biodegradation and metabolism	643	Styrene degradation	25
+Metabolism	Xenobiotics biodegradation and metabolism	791	Atrazine degradation	14
+Metabolism	Xenobiotics biodegradation and metabolism	930	Caprolactam degradation	22
+Metabolism	Xenobiotics biodegradation and metabolism	363	Bisphenol degradation	4
+Metabolism	Xenobiotics biodegradation and metabolism	621	Dioxin degradation	25
+Metabolism	Xenobiotics biodegradation and metabolism	626	Naphthalene degradation	29
+Metabolism	Xenobiotics biodegradation and metabolism	624	Polycyclic aromatic hydrocarbon degradation	42
+Metabolism	Xenobiotics biodegradation and metabolism	365	Furfural degradation	8
+Metabolism	Xenobiotics biodegradation and metabolism	984	Steroid degradation	15
+Metabolism	Xenobiotics biodegradation and metabolism	980	Metabolism of xenobiotics by cytochrome P450	33
+Metabolism	Xenobiotics biodegradation and metabolism	982	Drug metabolism - cytochrome P450	24
+Metabolism	Enzyme families	983	Drug metabolism - other enzymes	22
+Genetic Information Processing	Transcription	4	KEGG modules in global maps only	21
+Genetic Information Processing	Transcription	3020	RNA polymerase	51
+Genetic Information Processing	Transcription	3022	Basal transcription factors	35
+Genetic Information Processing	Transcription	3040	Spliceosome	122
+Genetic Information Processing	Translation	3010	Ribosome	143
+Genetic Information Processing	Translation	970	Aminoacyl-tRNA biosynthesis	63
+Genetic Information Processing	Translation	3013	RNA transport	138
+Genetic Information Processing	Translation	3015	mRNA surveillance pathway	59
+Genetic Information Processing	Translation	3008	Ribosome biogenesis in eukaryotes	82
+Genetic Information Processing	Folding, sorting and degradation	3060	Protein export	39
+Genetic Information Processing	Folding, sorting and degradation	4141	Protein processing in endoplasmic reticulum	140
+Genetic Information Processing	Folding, sorting and degradation	4130	SNARE interactions in vesicular transport	35
+Genetic Information Processing	Folding, sorting and degradation	4120	Ubiquitin mediated proteolysis	125
+Genetic Information Processing	Folding, sorting and degradation	4122	Sulfur relay system	28
+Genetic Information Processing	Folding, sorting and degradation	3050	Proteasome	48
+Genetic Information Processing	Replication and repair	3018	RNA degradation	78
+Genetic Information Processing	Replication and repair	3030	DNA replication	59
+Genetic Information Processing	Replication and repair	3410	Base excision repair	41
+Genetic Information Processing	Replication and repair	3420	Nucleotide excision repair	47
+Genetic Information Processing	Replication and repair	3430	Mismatch repair	44
+Genetic Information Processing	Replication and repair	3440	Homologous recombination	72
+Genetic Information Processing	Replication and repair	3450	Non-homologous end-joining	19
+Genetic Information Processing	Replication and repair	3460	Fanconi anemia pathway	54
+Environmental Information Processing	Membrane transport	2010	ABC transporters	477
+Environmental Information Processing	Membrane transport	2060	Phosphotransferase system (PTS)	91
+Environmental Information Processing	Membrane transport	3070	Bacterial secretion system	74
+Environmental Information Processing	Signal transduction	2020	Two-component system	479
+Environmental Information Processing	Signal transduction	4014	Ras signaling pathway	167
+Environmental Information Processing	Signal transduction	4015	Rap1 signaling pathway	156
+Environmental Information Processing	Signal transduction	4010	MAPK signaling pathway	192
+Environmental Information Processing	Signal transduction	4013	MAPK signaling pathway - fly	84
+Environmental Information Processing	Signal transduction	4016	MAPK signaling pathway - plant	54
+Environmental Information Processing	Signal transduction	4011	MAPK signaling pathway - yeast	90
+Environmental Information Processing	Signal transduction	4012	ErbB signaling pathway	68
+Environmental Information Processing	Signal transduction	4310	Wnt signaling pathway	103
+Environmental Information Processing	Signal transduction	4330	Notch signaling pathway	31
+Environmental Information Processing	Signal transduction	4340	Hedgehog signaling pathway	36
+Environmental Information Processing	Signal transduction	4341	Hedgehog signaling pathway - fly	24
+Environmental Information Processing	Signal transduction	4350	TGF-beta signaling pathway	70
+Environmental Information Processing	Signal transduction	4390	Hippo signaling pathway	111
+Environmental Information Processing	Signal transduction	4391	Hippo signaling pathway -fly	52
+Environmental Information Processing	Signal transduction	4392	Hippo signaling pathway - multiple species	25
+Environmental Information Processing	Signal transduction	4370	VEGF signaling pathway	39
+Environmental Information Processing	Signal transduction	4371	Apelin signaling pathway	103
+Environmental Information Processing	Signal transduction	4630	Jak-STAT signaling pathway	129
+Environmental Information Processing	Signal transduction	4064	NF-kappa B signaling pathway	89
+Environmental Information Processing	Signal transduction	4668	TNF signaling pathway	87
+Environmental Information Processing	Signal transduction	4066	HIF-1 signaling pathway	71
+Environmental Information Processing	Signal transduction	4068	FoxO signaling pathway	100
+Environmental Information Processing	Signal transduction	4020	Calcium signaling pathway	142
+Environmental Information Processing	Signal transduction	4070	Phosphatidylinositol signaling system	53
+Environmental Information Processing	Signal transduction	4072	Phospholipase D signaling pathway	102
+Environmental Information Processing	Signal transduction	4071	Sphingolipid signaling pathway	78
+Environmental Information Processing	Signal transduction	4024	cAMP signaling pathway	146
+Environmental Information Processing	Signal transduction	4022	cGMP - PKG signaling pathway	117
+Environmental Information Processing	Signal transduction	4151	PI3K-Akt signaling pathway	242
+Environmental Information Processing	Signal transduction	4152	AMPK signaling pathway	84
+Environmental Information Processing	Signal transduction	4150	mTOR signaling pathway	114
+Environmental Information Processing	Signaling molecules and interaction	4075	Plant hormone signal transduction	45
+Environmental Information Processing	Signaling molecules and interaction	4080	Neuroactive ligand-receptor interaction	279
+Environmental Information Processing	Signaling molecules and interaction	4060	Cytokine-cytokine receptor interaction	237
+Environmental Information Processing	Signaling molecules and interaction	4512	ECM-receptor interaction	60
+Environmental Information Processing	Signaling molecules and interaction	4514	Cell adhesion molecules (CAMs)	99
+Cellular Processes	Transport and catabolism	4144	Endocytosis	178
+Cellular Processes	Transport and catabolism	4145	Phagosome	95
+Cellular Processes	Transport and catabolism	4142	Lysosome	103
+Cellular Processes	Transport and catabolism	4146	Peroxisome	72
+Cellular Processes	Transport and catabolism	4140	Autophagy - animal	100
+Cellular Processes	Transport and catabolism	4138	Autophagy - yeast	77
+Cellular Processes	Transport and catabolism	4137	Mitophagy - animal	57
+Cellular Processes	Transport and catabolism	4139	Mitophagy - yeast	34
+Cellular Processes	Cell growth and death	4110	Cell cycle	107
+Cellular Processes	Cell growth and death	4111	Cell cycle - yeast	122
+Cellular Processes	Cell growth and death	4112	Cell cycle - Caulobacter	31
+Cellular Processes	Cell growth and death	4113	Meiosis - yeast	99
+Cellular Processes	Cell growth and death	4114	Oocyte meiosis	76
+Cellular Processes	Cell growth and death	4210	Apoptosis	109
+Cellular Processes	Cell growth and death	4214	Apoptosis - fly	56
+Cellular Processes	Cell growth and death	4215	Apoptosis - multiple species	39
+Cellular Processes	Cellular community - eukaryotes	4115	p53 signaling pathway	61
+Cellular Processes	Cellular community - eukaryotes	4510	Focal adhesion	148
+Cellular Processes	Cellular community - eukaryotes	4520	Adherens junction	60
+Cellular Processes	Cellular community - eukaryotes	4530	Tight junction	101
+Cellular Processes	Cellular community - eukaryotes	4540	Gap junction	59
+Cellular Processes	Cellular community - prokaryotes	4550	Signaling pathways regulating pluripotency of stem cells	108
+Cellular Processes	Cellular community - prokaryotes	2024	Quorum sensing	282
+Cellular Processes	Cellular community - prokaryotes	5111	Biofilm formation - Vibrio cholerae	107
+Cellular Processes	Cellular community - prokaryotes	2025	Biofilm formation - Pseudomonas aeruginosa	88
+Cellular Processes	Cell motility	2026	Biofilm formation - Escherichia coli	61
+Cellular Processes	Cell motility	2030	Bacterial chemotaxis	26
+Cellular Processes	Cell motility	2040	Flagellar assembly	40
+Cellular Processes	Cell motility	4810	Regulation of actin cytoskeleton	151
+Organismal Systems	Immune system	4640	Hematopoietic cell lineage	80
+Organismal Systems	Immune system	4610	Complement and coagulation cascades	78
+Organismal Systems	Immune system	4611	Platelet activation	89
+Organismal Systems	Immune system	4620	Toll-like receptor signaling pathway	76
+Organismal Systems	Immune system	4624	Toll and Imd signaling pathway	48
+Organismal Systems	Immune system	4621	NOD-like receptor signaling pathway	137
+Organismal Systems	Immune system	4622	RIG-I-like receptor signaling pathway	53
+Organismal Systems	Immune system	4623	Cytosolic DNA-sensing pathway	51
+Organismal Systems	Immune system	4650	Natural killer cell mediated cytotoxicity	85
+Organismal Systems	Immune system	4612	Antigen processing and presentation	41
+Organismal Systems	Immune system	4660	T cell receptor signaling pathway	85
+Organismal Systems	Immune system	4658	Th1 and Th2 cell differentiation	66
+Organismal Systems	Immune system	4659	Th17 cell differentiation	85
+Organismal Systems	Immune system	4657	IL-17 signaling pathway	81
+Organismal Systems	Immune system	4662	B cell receptor signaling pathway	57
+Organismal Systems	Immune system	4664	Fc epsilon RI signaling pathway	47
+Organismal Systems	Immune system	4666	Fc gamma R-mediated phagocytosis	58
+Organismal Systems	Immune system	4670	Leukocyte transendothelial migration	75
+Organismal Systems	Immune system	4672	Intestinal immune network for IgA production	37
+Organismal Systems	Endocrine system	4062	Chemokine signaling pathway	153
+Organismal Systems	Endocrine system	4911	Insulin secretion	67
+Organismal Systems	Endocrine system	4910	Insulin signaling pathway	86
+Organismal Systems	Endocrine system	4922	Glucagon signaling pathway	55
+Organismal Systems	Endocrine system	4923	Regulation of lipolysis in adipocyte	45
+Organismal Systems	Endocrine system	4920	Adipocytokine signaling pathway	53
+Organismal Systems	Endocrine system	3320	PPAR signaling pathway	61
+Organismal Systems	Endocrine system	4912	GnRH signaling pathway	63
+Organismal Systems	Endocrine system	4913	Ovarian Steroidogenesis	39
+Organismal Systems	Endocrine system	4915	Estrogen signaling pathway	65
+Organismal Systems	Endocrine system	4914	Progesterone-mediated oocyte maturation	59
+Organismal Systems	Endocrine system	4917	Prolactin signaling pathway	57
+Organismal Systems	Endocrine system	4921	Oxytocin signaling pathway	111
+Organismal Systems	Endocrine system	4918	Thyroid hormone synthesis	52
+Organismal Systems	Endocrine system	4919	Thyroid hormone signaling pathway	88
+Organismal Systems	Endocrine system	4916	Melanogenesis	67
+Organismal Systems	Endocrine system	4924	Renin secretion	46
+Organismal Systems	Endocrine system	4614	Renin-angiotensin system	22
+Organismal Systems	Circulatory system	4925	Aldosterone synthesis and secretion	58
+Organismal Systems	Circulatory system	4260	Cardiac muscle contraction	60
+Organismal Systems	Circulatory system	4261	Adrenergic signaling in cardiomyocytes	92
+Organismal Systems	Digestive system	4270	Vascular smooth muscle contraction	96
+Organismal Systems	Digestive system	4970	Salivary secretion	63
+Organismal Systems	Digestive system	4971	Gastric acid secretion	49
+Organismal Systems	Digestive system	4972	Pancreatic secretion	67
+Organismal Systems	Digestive system	4976	Bile secretion	59
+Organismal Systems	Digestive system	4973	Carbohydrate digestion and absorption	21
+Organismal Systems	Digestive system	4974	Protein digestion and absorption	56
+Organismal Systems	Digestive system	4975	Fat digestion and absorption	26
+Organismal Systems	Digestive system	4977	Vitamin digestion and absorption	21
+Organismal Systems	Excretory system	4978	Mineral absorption	30
+Organismal Systems	Excretory system	4962	Vasopressin-regulated water reabsorption	33
+Organismal Systems	Excretory system	4960	Aldosterone-regulated sodium reabsorption	26
+Organismal Systems	Excretory system	4961	Endocrine and other factor-regulated calcium reabsorption	29
+Organismal Systems	Excretory system	4964	Proximal tubule bicarbonate reclamation	14
+Organismal Systems	Nervous system	4966	Collecting duct acid secretion	17
+Organismal Systems	Nervous system	4724	Glutamatergic synapse	85
+Organismal Systems	Nervous system	4727	GABAergic synapse	65
+Organismal Systems	Nervous system	4725	Cholinergic synapse	90
+Organismal Systems	Nervous system	4728	Dopaminergic synapse	83
+Organismal Systems	Nervous system	4726	Serotonergic synapse	85
+Organismal Systems	Nervous system	4720	Long-term potentiation	43
+Organismal Systems	Nervous system	4730	Long-term depression	45
+Organismal Systems	Nervous system	4723	Retrograde endocannabinoid signaling	74
+Organismal Systems	Nervous system	4721	Synaptic vesicle cycle	40
+Organismal Systems	Sensory system	4722	Neurotrophin signaling pathway	90
+Organismal Systems	Sensory system	4744	Phototransduction	18
+Organismal Systems	Sensory system	4745	Phototransduction - fly	18
+Organismal Systems	Sensory system	4740	Olfactory transduction	25
+Organismal Systems	Sensory system	4742	Taste transduction	40
+Organismal Systems	Development	4750	Inflammatory mediator regulation of TRP channels	67
+Organismal Systems	Development	4320	Dorso-ventral axis formation	27
+Organismal Systems	Development	4360	Axon guidance	122
+Organismal Systems	Aging	4380	Osteoclast differentiation	99
+Organismal Systems	Aging	4211	Longevity regulating pathway - mammal	68
+Organismal Systems	Aging	4212	Longevity regulating pathway - worm	55
+Organismal Systems	Environmental adaptation	4213	Longevity regulating pathway - multiple species	58
+Organismal Systems	Environmental adaptation	4710	Circadian rhythm	22
+Organismal Systems	Environmental adaptation	4713	Circadian entrainment	76
+Organismal Systems	Environmental adaptation	4711	Circadian rhythm - fly	8
+Organismal Systems	Environmental adaptation	4712	Circadian rhythm - plant	27
+Human Diseases	Cancers	4626	Plant-pathogen interaction	78
+Human Diseases	Cancers	5200	Pathways in cancer	317
+Human Diseases	Cancers	5230	Central carbon metabolism in cancer	46
+Human Diseases	Cancers	5231	Choline metabolism in cancer	61
+Human Diseases	Cancers	5202	Transcriptional misregulation in cancers	147
+Human Diseases	Cancers	5206	MicroRNAs in cancer	231
+Human Diseases	Cancers	5205	Proteoglycans in cancer	162
+Human Diseases	Cancers	5204	Chemical carcinogenesis	36
+Human Diseases	Cancers	5203	Viral carcinogenesis	134
+Human Diseases	Cancers	5210	Colorectal cancer	49
+Human Diseases	Cancers	5212	Pancreatic cancer	53
+Human Diseases	Cancers	5214	Glioma	47
+Human Diseases	Cancers	5216	Thyroid cancer	28
+Human Diseases	Cancers	5221	Acute myeloid leukemia	45
+Human Diseases	Cancers	5220	Chronic myeloid leukemia	57
+Human Diseases	Cancers	5217	Basal cell carcinoma	43
+Human Diseases	Cancers	5218	Melanoma	42
+Human Diseases	Cancers	5211	Renal cell carcinoma	51
+Human Diseases	Cancers	5219	Bladder cancer	38
+Human Diseases	Cancers	5215	Prostate cancer	70
+Human Diseases	Cancers	5213	Endometrial cancer	39
+Human Diseases	Cancers	5224	Breast cancer	96
+Human Diseases	Cancers	5222	Small cell lung cancer	66
+Human Diseases	Immune diseases	5223	Non-small cell lung cancer	50
+Human Diseases	Immune diseases	5310	Asthma	20
+Human Diseases	Immune diseases	5322	Systemic lupus erythematosus	45
+Human Diseases	Immune diseases	5323	Rheumatoid arthritis	65
+Human Diseases	Immune diseases	5320	Autoimmune thyroid disease	25
+Human Diseases	Immune diseases	5321	Inflammatiory bowel disease (IBD)	52
+Human Diseases	Immune diseases	5330	Allograft rejection	22
+Human Diseases	Immune diseases	5332	Graft-versus-host disease	18
+Human Diseases	Neurodegenerative diseases	5340	Primary immunodeficiency	35
+Human Diseases	Neurodegenerative diseases	5010	Alzheimer's disease	143
+Human Diseases	Neurodegenerative diseases	5012	Parkinson's disease	122
+Human Diseases	Neurodegenerative diseases	5014	Amyotrophic lateral sclerosis (ALS)	43
+Human Diseases	Neurodegenerative diseases	5016	Huntington's disease	149
+Human Diseases	Substance dependence	5020	Prion diseases	30
+Human Diseases	Substance dependence	5030	Cocaine addiction	38
+Human Diseases	Substance dependence	5031	Amphetamine addiction	45
+Human Diseases	Substance dependence	5032	Morphine addiction	64
+Human Diseases	Substance dependence	5033	Nicotine addiction	27
+Human Diseases	Cardiovascular diseases	5034	Alcoholism	84
+Human Diseases	Cardiovascular diseases	5418	Fluid shear stress and atherosclerosis	98
+Human Diseases	Cardiovascular diseases	5410	Hypertrophic cardiomyopathy (HCM)	75
+Human Diseases	Cardiovascular diseases	5412	Arrhythmogenic right ventricular cardiomyopathy (ARVC)	65
+Human Diseases	Cardiovascular diseases	5414	Dilated cardiomyopathy (DCM)	82
+Human Diseases	Endocrine and metabolic diseases	5416	Viral myocarditis	38
+Human Diseases	Endocrine and metabolic diseases	4930	Type II diabetes mellitus	37
+Human Diseases	Endocrine and metabolic diseases	4940	Type I diabetes mellitus	25
+Human Diseases	Endocrine and metabolic diseases	4950	Maturity onset diabetes of the young	26
+Human Diseases	Endocrine and metabolic diseases	4932	Non-alcoholic fatty liver disease (NAFLD)	124
+Human Diseases	Endocrine and metabolic diseases	4931	Insulin resistance	73
+Human Diseases	Infectious diseases	4933	AGE-RAGE signaling pathway in diabetic complications	72
+Human Diseases	Infectious diseases	5110	Vibrio cholerae infection	48
+Human Diseases	Infectious diseases	5120	Epithelial cell signaling in Helicobacter pylori infection	90
+Human Diseases	Infectious diseases	5130	Pathogenic Escherichia coli infection	43
+Human Diseases	Infectious diseases	5132	Salmonella infection	82
+Human Diseases	Infectious diseases	5131	Shigellosis	64
+Human Diseases	Infectious diseases	5133	Pertussis	79
+Human Diseases	Infectious diseases	5134	Legionellosis	68
+Human Diseases	Infectious diseases	5150	Staphylococcus aureus infection	66
+Human Diseases	Infectious diseases	5152	Tuberculosis	131
+Human Diseases	Infectious diseases	5100	Bacterial invasion of epithelial cells	73
+Human Diseases	Infectious diseases	5166	HTLV-I infection	206
+Human Diseases	Infectious diseases	5162	Measles	109
+Human Diseases	Infectious diseases	5164	Influenza A	124
+Human Diseases	Infectious diseases	5161	Hepatitis B	113
+Human Diseases	Infectious diseases	5160	Hepatitis C	79
+Human Diseases	Infectious diseases	5168	Herpes simplex infection	145
+Human Diseases	Infectious diseases	5169	Epstein-Barr virus infection	164
+Human Diseases	Infectious diseases	5146	Amoebiasis	81
+Human Diseases	Infectious diseases	5144	Malaria	66
+Human Diseases	Infectious diseases	5145	Toxoplasmosis	94
+Human Diseases	Infectious diseases	5140	Leishmaniasis	57
+Human Diseases	Infectious diseases	5142	Chagas disease (American trypanosomiasis)	82
+Human Diseases	Drug resistance	5143	African trypanosomiasis	37
+Human Diseases	Drug resistance	1501	beta-Lactam resistance	104
+Human Diseases	Drug resistance	1502	Vancomycin resistance	21
+Human Diseases	Drug resistance	1503	Cationic antimicrobial peptide (CAMP) resistance	54
+Human Diseases	Drug resistance	1521	EGFR tyrosine kinase inhibitor resistance	67
+Human Diseases	Drug resistance	1522	Endocrine resistance	76
+Human Diseases	Drug resistance	1524	Platinum drug resistance	45
